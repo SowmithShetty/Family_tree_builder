@@ -1,0 +1,5 @@
+family-tree-builder/
+├── client/ (React frontend)
+├── server/ (Node/Express backend)
+├── .gitignore
+└── README.md
