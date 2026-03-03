@@ -30,7 +30,7 @@ git clone [https://github.com/SowmithShetty/Family_tree_builder.git](https://git
 cd Family_tree_builder
 
 
-#Backend Setup
+Backend Setup
 cd server
 npm install
 node server.js
