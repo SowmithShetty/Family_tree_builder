@@ -1,5 +1,7 @@
-family-tree-builder/
-├── client/ (React frontend)
-├── server/ (Node/Express backend)
-├── .gitignore
+Family_tree_builder/
+├── client/           # React frontend
+│   └── src/          # Components and Tree Logic
+├── server/           # Node/Express backend
+│   ├── models/       # Database Schemas
+│   └── server.js     # API entry point
 └── README.md
